@@ -1,2 +1,2 @@
-# scroll-parallax
-animation on scroll
+# Parallax
+Animation
